@@ -1,0 +1,14 @@
+c:\workspace\HOTELDOTNET\bin\Debug\net9.0\HOTELDOTNET.exe
+C:\workspace\HOTELDOTNET\bin\Debug\net9.0\HOTELDOTNET.deps.json
+C:\workspace\HOTELDOTNET\bin\Debug\net9.0\HOTELDOTNET.runtimeconfig.json
+c:\workspace\HOTELDOTNET\bin\Debug\net9.0\HOTELDOTNET.dll
+c:\workspace\HOTELDOTNET\bin\Debug\net9.0\HOTELDOTNET.pdb
+c:\workspace\HOTELDOTNET\obj\Debug\net9.0\HOTELDOTNET.GeneratedMSBuildEditorConfig.editorconfig
+c:\workspace\HOTELDOTNET\obj\Debug\net9.0\HOTELDOTNET.AssemblyInfoInputs.cache
+c:\workspace\HOTELDOTNET\obj\Debug\net9.0\HOTELDOTNET.AssemblyInfo.cs
+c:\workspace\HOTELDOTNET\obj\Debug\net9.0\HOTELDOTNET.csproj.CoreCompileInputs.cache
+c:\workspace\HOTELDOTNET\obj\Debug\net9.0\HOTELDOTNET.dll
+c:\workspace\HOTELDOTNET\obj\Debug\net9.0\refint\HOTELDOTNET.dll
+c:\workspace\HOTELDOTNET\obj\Debug\net9.0\HOTELDOTNET.pdb
+C:\workspace\HOTELDOTNET\obj\Debug\net9.0\HOTELDOTNET.genruntimeconfig.cache
+C:\workspace\HOTELDOTNET\obj\Debug\net9.0\ref\HOTELDOTNET.dll
